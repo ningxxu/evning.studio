@@ -1,0 +1,25 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: website
+
+project_entries:
+  - title: Project 1
+    url: first
+    desc: This is an example project, configured in _data/home.yml
+
+
+footer_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: website
